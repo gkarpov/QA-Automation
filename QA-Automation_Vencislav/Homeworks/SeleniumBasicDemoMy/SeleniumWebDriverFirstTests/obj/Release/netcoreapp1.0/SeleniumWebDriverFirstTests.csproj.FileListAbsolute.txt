@@ -1,0 +1,6 @@
+D:\Documents\Softuni\QA-Automation\QA-Automation_Vencislav\fromGit\QA-Automation\Homeworks\SeleniumBasicDemoMy\SeleniumWebDriverFirstTests\bin\Release\netcoreapp1.0\SeleniumWebDriverFirstTests.deps.json
+D:\Documents\Softuni\QA-Automation\QA-Automation_Vencislav\fromGit\QA-Automation\Homeworks\SeleniumBasicDemoMy\SeleniumWebDriverFirstTests\bin\Release\netcoreapp1.0\SeleniumWebDriverFirstTests.runtimeconfig.json
+D:\Documents\Softuni\QA-Automation\QA-Automation_Vencislav\fromGit\QA-Automation\Homeworks\SeleniumBasicDemoMy\SeleniumWebDriverFirstTests\bin\Release\netcoreapp1.0\SeleniumWebDriverFirstTests.runtimeconfig.dev.json
+D:\Documents\Softuni\QA-Automation\QA-Automation_Vencislav\fromGit\QA-Automation\Homeworks\SeleniumBasicDemoMy\SeleniumWebDriverFirstTests\obj\Release\netcoreapp1.0\SeleniumWebDriverFirstTests.csprojAssemblyReference.cache
+D:\Documents\Softuni\QA-Automation\QA-Automation_Vencislav\fromGit\QA-Automation\Homeworks\SeleniumBasicDemoMy\SeleniumWebDriverFirstTests\obj\Release\netcoreapp1.0\SeleniumWebDriverFirstTests.csproj.CoreCompileInputs.cache
+D:\Documents\Softuni\QA-Automation\QA-Automation_Vencislav\fromGit\QA-Automation\Homeworks\SeleniumBasicDemoMy\SeleniumWebDriverFirstTests\obj\Release\netcoreapp1.0\SeleniumWebDriverFirstTests.AssemblyInfo.cs

@@ -1,0 +1,16 @@
+D:\Documents\Softuni\QA-Automation\QA-Automation_Vencislav\fromGit\QA-Automation\Homeworks\SeleniumBasicDemoMy\BankNunitTests\bin\Release\netcoreapp1.1\NUnit3.TestAdapter.dll
+D:\Documents\Softuni\QA-Automation\QA-Automation_Vencislav\fromGit\QA-Automation\Homeworks\SeleniumBasicDemoMy\BankNunitTests\bin\Release\netcoreapp1.1\NUnit3.TestAdapter.pdb
+D:\Documents\Softuni\QA-Automation\QA-Automation_Vencislav\fromGit\QA-Automation\Homeworks\SeleniumBasicDemoMy\BankNunitTests\bin\Release\netcoreapp1.1\nunit.engine.netstandard.dll
+D:\Documents\Softuni\QA-Automation\QA-Automation_Vencislav\fromGit\QA-Automation\Homeworks\SeleniumBasicDemoMy\BankNunitTests\bin\Release\netcoreapp1.1\BankTestNunit.deps.json
+D:\Documents\Softuni\QA-Automation\QA-Automation_Vencislav\fromGit\QA-Automation\Homeworks\SeleniumBasicDemoMy\BankNunitTests\bin\Release\netcoreapp1.1\BankTestNunit.runtimeconfig.json
+D:\Documents\Softuni\QA-Automation\QA-Automation_Vencislav\fromGit\QA-Automation\Homeworks\SeleniumBasicDemoMy\BankNunitTests\bin\Release\netcoreapp1.1\BankTestNunit.runtimeconfig.dev.json
+D:\Documents\Softuni\QA-Automation\QA-Automation_Vencislav\fromGit\QA-Automation\Homeworks\SeleniumBasicDemoMy\BankNunitTests\bin\Release\netcoreapp1.1\BankTestNunit.dll
+D:\Documents\Softuni\QA-Automation\QA-Automation_Vencislav\fromGit\QA-Automation\Homeworks\SeleniumBasicDemoMy\BankNunitTests\bin\Release\netcoreapp1.1\BankTestNunit.pdb
+D:\Documents\Softuni\QA-Automation\QA-Automation_Vencislav\fromGit\QA-Automation\Homeworks\SeleniumBasicDemoMy\BankNunitTests\bin\Release\netcoreapp1.1\Bank.dll
+D:\Documents\Softuni\QA-Automation\QA-Automation_Vencislav\fromGit\QA-Automation\Homeworks\SeleniumBasicDemoMy\BankNunitTests\bin\Release\netcoreapp1.1\Bank.pdb
+D:\Documents\Softuni\QA-Automation\QA-Automation_Vencislav\fromGit\QA-Automation\Homeworks\SeleniumBasicDemoMy\BankNunitTests\obj\Release\netcoreapp1.1\BankTestNunit.csprojAssemblyReference.cache
+D:\Documents\Softuni\QA-Automation\QA-Automation_Vencislav\fromGit\QA-Automation\Homeworks\SeleniumBasicDemoMy\BankNunitTests\obj\Release\netcoreapp1.1\BankTestNunit.csproj.CoreCompileInputs.cache
+D:\Documents\Softuni\QA-Automation\QA-Automation_Vencislav\fromGit\QA-Automation\Homeworks\SeleniumBasicDemoMy\BankNunitTests\obj\Release\netcoreapp1.1\BankTestNunit.AssemblyInfo.cs
+D:\Documents\Softuni\QA-Automation\QA-Automation_Vencislav\fromGit\QA-Automation\Homeworks\SeleniumBasicDemoMy\BankNunitTests\obj\Release\netcoreapp1.1\BankTestNunit.csproj.CopyComplete
+D:\Documents\Softuni\QA-Automation\QA-Automation_Vencislav\fromGit\QA-Automation\Homeworks\SeleniumBasicDemoMy\BankNunitTests\obj\Release\netcoreapp1.1\BankTestNunit.dll
+D:\Documents\Softuni\QA-Automation\QA-Automation_Vencislav\fromGit\QA-Automation\Homeworks\SeleniumBasicDemoMy\BankNunitTests\obj\Release\netcoreapp1.1\BankTestNunit.pdb

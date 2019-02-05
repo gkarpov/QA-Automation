@@ -1,0 +1,43 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v2.0": []
+  },
+  "packageFolders": {
+    "C:\\Users\\egor2\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Documents\\Softuni\\QA-Automation\\QA-Automation_Vencislav\\SeleniumBasicDemo_1\\SeleniumBasicDemo\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectName": "ConsoleApp1",
+      "projectPath": "D:\\Documents\\Softuni\\QA-Automation\\QA-Automation_Vencislav\\SeleniumBasicDemo_1\\SeleniumBasicDemo\\ConsoleApp1\\ConsoleApp1.csproj",
+      "packagesPath": "C:\\Users\\egor2\\.nuget\\packages\\",
+      "outputPath": "D:\\Documents\\Softuni\\QA-Automation\\QA-Automation_Vencislav\\SeleniumBasicDemo_1\\SeleniumBasicDemo\\ConsoleApp1\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\egor2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp2.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "netcoreapp2.0": {}
+    }
+  }
+}

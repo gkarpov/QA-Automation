@@ -1,0 +1,17 @@
+D:\Documents\Softuni\QA-Automation\SeleniumBasicDemo_1\SeleniumBasicDemo\Bank.Tests.Xunit\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\Documents\Softuni\QA-Automation\SeleniumBasicDemo_1\SeleniumBasicDemo\Bank.Tests.Xunit\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+D:\Documents\Softuni\QA-Automation\SeleniumBasicDemo_1\SeleniumBasicDemo\Bank.Tests.Xunit\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+D:\Documents\Softuni\QA-Automation\SeleniumBasicDemo_1\SeleniumBasicDemo\Bank.Tests.Xunit\bin\Debug\netcoreapp2.0\Bank.Xunit.deps.json
+D:\Documents\Softuni\QA-Automation\SeleniumBasicDemo_1\SeleniumBasicDemo\Bank.Tests.Xunit\bin\Debug\netcoreapp2.0\Bank.Xunit.runtimeconfig.json
+D:\Documents\Softuni\QA-Automation\SeleniumBasicDemo_1\SeleniumBasicDemo\Bank.Tests.Xunit\bin\Debug\netcoreapp2.0\Bank.Xunit.runtimeconfig.dev.json
+D:\Documents\Softuni\QA-Automation\SeleniumBasicDemo_1\SeleniumBasicDemo\Bank.Tests.Xunit\bin\Debug\netcoreapp2.0\Bank.Xunit.dll
+D:\Documents\Softuni\QA-Automation\SeleniumBasicDemo_1\SeleniumBasicDemo\Bank.Tests.Xunit\bin\Debug\netcoreapp2.0\Bank.Xunit.pdb
+D:\Documents\Softuni\QA-Automation\SeleniumBasicDemo_1\SeleniumBasicDemo\Bank.Tests.Xunit\bin\Debug\netcoreapp2.0\Bank.dll
+D:\Documents\Softuni\QA-Automation\SeleniumBasicDemo_1\SeleniumBasicDemo\Bank.Tests.Xunit\bin\Debug\netcoreapp2.0\Bank.pdb
+D:\Documents\Softuni\QA-Automation\SeleniumBasicDemo_1\SeleniumBasicDemo\Bank.Tests.Xunit\obj\Debug\netcoreapp2.0\Bank.Xunit.csprojAssemblyReference.cache
+D:\Documents\Softuni\QA-Automation\SeleniumBasicDemo_1\SeleniumBasicDemo\Bank.Tests.Xunit\obj\Debug\netcoreapp2.0\Bank.Xunit.csproj.CoreCompileInputs.cache
+D:\Documents\Softuni\QA-Automation\SeleniumBasicDemo_1\SeleniumBasicDemo\Bank.Tests.Xunit\obj\Debug\netcoreapp2.0\Bank.Xunit.AssemblyInfoInputs.cache
+D:\Documents\Softuni\QA-Automation\SeleniumBasicDemo_1\SeleniumBasicDemo\Bank.Tests.Xunit\obj\Debug\netcoreapp2.0\Bank.Xunit.AssemblyInfo.cs
+D:\Documents\Softuni\QA-Automation\SeleniumBasicDemo_1\SeleniumBasicDemo\Bank.Tests.Xunit\obj\Debug\netcoreapp2.0\Bank.Xunit.csproj.CopyComplete
+D:\Documents\Softuni\QA-Automation\SeleniumBasicDemo_1\SeleniumBasicDemo\Bank.Tests.Xunit\obj\Debug\netcoreapp2.0\Bank.Xunit.dll
+D:\Documents\Softuni\QA-Automation\SeleniumBasicDemo_1\SeleniumBasicDemo\Bank.Tests.Xunit\obj\Debug\netcoreapp2.0\Bank.Xunit.pdb

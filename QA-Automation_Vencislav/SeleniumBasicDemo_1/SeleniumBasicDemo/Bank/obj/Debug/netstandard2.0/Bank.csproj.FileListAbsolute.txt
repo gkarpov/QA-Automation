@@ -1,0 +1,9 @@
+D:\Documents\Softuni\QA-Automation\SeleniumBasicDemo_1\SeleniumBasicDemo\Bank\bin\Debug\netstandard2.0\Bank.deps.json
+D:\Documents\Softuni\QA-Automation\SeleniumBasicDemo_1\SeleniumBasicDemo\Bank\bin\Debug\netstandard2.0\Bank.dll
+D:\Documents\Softuni\QA-Automation\SeleniumBasicDemo_1\SeleniumBasicDemo\Bank\bin\Debug\netstandard2.0\Bank.pdb
+D:\Documents\Softuni\QA-Automation\SeleniumBasicDemo_1\SeleniumBasicDemo\Bank\obj\Debug\netstandard2.0\Bank.csprojAssemblyReference.cache
+D:\Documents\Softuni\QA-Automation\SeleniumBasicDemo_1\SeleniumBasicDemo\Bank\obj\Debug\netstandard2.0\Bank.csproj.CoreCompileInputs.cache
+D:\Documents\Softuni\QA-Automation\SeleniumBasicDemo_1\SeleniumBasicDemo\Bank\obj\Debug\netstandard2.0\Bank.AssemblyInfoInputs.cache
+D:\Documents\Softuni\QA-Automation\SeleniumBasicDemo_1\SeleniumBasicDemo\Bank\obj\Debug\netstandard2.0\Bank.AssemblyInfo.cs
+D:\Documents\Softuni\QA-Automation\SeleniumBasicDemo_1\SeleniumBasicDemo\Bank\obj\Debug\netstandard2.0\Bank.dll
+D:\Documents\Softuni\QA-Automation\SeleniumBasicDemo_1\SeleniumBasicDemo\Bank\obj\Debug\netstandard2.0\Bank.pdb

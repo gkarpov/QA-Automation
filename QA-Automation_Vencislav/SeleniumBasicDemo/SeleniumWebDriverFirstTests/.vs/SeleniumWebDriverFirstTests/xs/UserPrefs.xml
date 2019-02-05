@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{63FA6FD0-841B-4003-93B9-8697B6245716}|Unit Tests">
+  <MonoDevelop.Ide.Workbench ActiveDocument="RegisterInDemoQA.cs">
+    <Files>
+      <File FileName="RegisterInDemoQA.cs" Line="32" Column="49" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.SeleniumWebDriverFirstTests PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

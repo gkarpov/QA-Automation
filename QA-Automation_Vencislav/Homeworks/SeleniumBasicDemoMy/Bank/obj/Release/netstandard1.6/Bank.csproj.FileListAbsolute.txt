@@ -1,0 +1,10 @@
+D:\Documents\Softuni\QA-Automation\QA-Automation_Vencislav\fromGit\QA-Automation\Homeworks\SeleniumBasicDemoMy\Bank\bin\Release\netstandard1.6\Bank.deps.json
+D:\Documents\Softuni\QA-Automation\QA-Automation_Vencislav\fromGit\QA-Automation\Homeworks\SeleniumBasicDemoMy\Bank\bin\Release\netstandard1.6\Bank.runtimeconfig.json
+D:\Documents\Softuni\QA-Automation\QA-Automation_Vencislav\fromGit\QA-Automation\Homeworks\SeleniumBasicDemoMy\Bank\bin\Release\netstandard1.6\Bank.runtimeconfig.dev.json
+D:\Documents\Softuni\QA-Automation\QA-Automation_Vencislav\fromGit\QA-Automation\Homeworks\SeleniumBasicDemoMy\Bank\bin\Release\netstandard1.6\Bank.dll
+D:\Documents\Softuni\QA-Automation\QA-Automation_Vencislav\fromGit\QA-Automation\Homeworks\SeleniumBasicDemoMy\Bank\bin\Release\netstandard1.6\Bank.pdb
+D:\Documents\Softuni\QA-Automation\QA-Automation_Vencislav\fromGit\QA-Automation\Homeworks\SeleniumBasicDemoMy\Bank\obj\Release\netstandard1.6\Bank.csprojAssemblyReference.cache
+D:\Documents\Softuni\QA-Automation\QA-Automation_Vencislav\fromGit\QA-Automation\Homeworks\SeleniumBasicDemoMy\Bank\obj\Release\netstandard1.6\Bank.csproj.CoreCompileInputs.cache
+D:\Documents\Softuni\QA-Automation\QA-Automation_Vencislav\fromGit\QA-Automation\Homeworks\SeleniumBasicDemoMy\Bank\obj\Release\netstandard1.6\Bank.AssemblyInfo.cs
+D:\Documents\Softuni\QA-Automation\QA-Automation_Vencislav\fromGit\QA-Automation\Homeworks\SeleniumBasicDemoMy\Bank\obj\Release\netstandard1.6\Bank.dll
+D:\Documents\Softuni\QA-Automation\QA-Automation_Vencislav\fromGit\QA-Automation\Homeworks\SeleniumBasicDemoMy\Bank\obj\Release\netstandard1.6\Bank.pdb

@@ -1,0 +1,11 @@
+D:\Documents\Softuni\QA-Automation\SeleniumBasicDemo\SeleniumGoogleSearch\bin\Debug\netcoreapp2.0\SeleniumGoogleSearch.deps.json
+D:\Documents\Softuni\QA-Automation\SeleniumBasicDemo\SeleniumGoogleSearch\bin\Debug\netcoreapp2.0\SeleniumGoogleSearch.runtimeconfig.json
+D:\Documents\Softuni\QA-Automation\SeleniumBasicDemo\SeleniumGoogleSearch\bin\Debug\netcoreapp2.0\SeleniumGoogleSearch.runtimeconfig.dev.json
+D:\Documents\Softuni\QA-Automation\SeleniumBasicDemo\SeleniumGoogleSearch\bin\Debug\netcoreapp2.0\SeleniumGoogleSearch.dll
+D:\Documents\Softuni\QA-Automation\SeleniumBasicDemo\SeleniumGoogleSearch\obj\Debug\netcoreapp2.0\SeleniumGoogleSearch.csproj.CoreCompileInputs.cache
+D:\Documents\Softuni\QA-Automation\SeleniumBasicDemo\SeleniumGoogleSearch\obj\Debug\netcoreapp2.0\SeleniumGoogleSearch.AssemblyInfoInputs.cache
+D:\Documents\Softuni\QA-Automation\SeleniumBasicDemo\SeleniumGoogleSearch\obj\Debug\netcoreapp2.0\SeleniumGoogleSearch.AssemblyInfo.cs
+D:\Documents\Softuni\QA-Automation\SeleniumBasicDemo\SeleniumGoogleSearch\obj\Debug\netcoreapp2.0\SeleniumGoogleSearch.csprojAssemblyReference.cache
+D:\Documents\Softuni\QA-Automation\SeleniumBasicDemo\SeleniumGoogleSearch\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.dll
+D:\Documents\Softuni\QA-Automation\SeleniumBasicDemo\SeleniumGoogleSearch\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.pdb
+D:\Documents\Softuni\QA-Automation\SeleniumBasicDemo\SeleniumGoogleSearch\bin\Debug\netcoreapp2.0\nunit.engine.netstandard.dll
