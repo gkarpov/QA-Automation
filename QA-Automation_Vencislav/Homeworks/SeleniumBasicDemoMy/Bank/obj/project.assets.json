@@ -4474,17 +4474,21 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\egor2\\.nuget\\packages\\": {}
+    "C:\\Users\\egor2\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Documents\\Softuni\\QA-Automation\\QA-Automation_Vencislav\\fromGit\\QA-Automation\\Homeworks\\SeleniumBasicDemoMy\\Bank\\Bank.csproj",
+      "projectUniqueName": "D:\\Documents\\Softuni\\QA-Automation\\QA-Automation_Vencislav\\Homeworks\\SeleniumBasicDemoMy\\Bank\\Bank.csproj",
       "projectName": "Bank",
-      "projectPath": "D:\\Documents\\Softuni\\QA-Automation\\QA-Automation_Vencislav\\fromGit\\QA-Automation\\Homeworks\\SeleniumBasicDemoMy\\Bank\\Bank.csproj",
+      "projectPath": "D:\\Documents\\Softuni\\QA-Automation\\QA-Automation_Vencislav\\Homeworks\\SeleniumBasicDemoMy\\Bank\\Bank.csproj",
       "packagesPath": "C:\\Users\\egor2\\.nuget\\packages\\",
-      "outputPath": "D:\\Documents\\Softuni\\QA-Automation\\QA-Automation_Vencislav\\fromGit\\QA-Automation\\Homeworks\\SeleniumBasicDemoMy\\Bank\\obj\\",
+      "outputPath": "D:\\Documents\\Softuni\\QA-Automation\\QA-Automation_Vencislav\\Homeworks\\SeleniumBasicDemoMy\\Bank\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
         "C:\\Users\\egor2\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -4500,6 +4504,11 @@
         "netstandard1.6": {
           "projectReferences": {}
         }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
       }
     },
     "frameworks": {

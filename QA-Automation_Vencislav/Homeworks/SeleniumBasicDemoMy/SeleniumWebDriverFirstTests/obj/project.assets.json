@@ -8971,11 +8971,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Documents\\Softuni\\QA-Automation\\QA-Automation_Vencislav\\fromGit\\QA-Automation\\Homeworks\\SeleniumBasicDemoMy\\SeleniumWebDriverFirstTests\\SeleniumWebDriverFirstTests.csproj",
+      "projectUniqueName": "D:\\Documents\\Softuni\\QA-Automation\\QA-Automation_Vencislav\\Homeworks\\SeleniumBasicDemoMy\\SeleniumWebDriverFirstTests\\SeleniumWebDriverFirstTests.csproj",
       "projectName": "SeleniumWebDriverFirstTests",
-      "projectPath": "D:\\Documents\\Softuni\\QA-Automation\\QA-Automation_Vencislav\\fromGit\\QA-Automation\\Homeworks\\SeleniumBasicDemoMy\\SeleniumWebDriverFirstTests\\SeleniumWebDriverFirstTests.csproj",
+      "projectPath": "D:\\Documents\\Softuni\\QA-Automation\\QA-Automation_Vencislav\\Homeworks\\SeleniumBasicDemoMy\\SeleniumWebDriverFirstTests\\SeleniumWebDriverFirstTests.csproj",
       "packagesPath": "C:\\Users\\egor2\\.nuget\\packages\\",
-      "outputPath": "D:\\Documents\\Softuni\\QA-Automation\\QA-Automation_Vencislav\\fromGit\\QA-Automation\\Homeworks\\SeleniumBasicDemoMy\\SeleniumWebDriverFirstTests\\obj\\",
+      "outputPath": "D:\\Documents\\Softuni\\QA-Automation\\QA-Automation_Vencislav\\Homeworks\\SeleniumBasicDemoMy\\SeleniumWebDriverFirstTests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\egor2\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -8986,12 +8986,18 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp1.0": {
           "projectReferences": {}
         }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
       }
     },
     "frameworks": {
@@ -9038,8 +9044,8 @@
     {
       "code": "NU1202",
       "level": "Error",
-      "message": "Package Selenium.WebDriver 3.13.1 is not compatible with netcoreapp1.0 (.NETCoreApp,Version=v1.0). Package Selenium.WebDriver 3.13.1 supports:\r\n  - net35 (.NETFramework,Version=v3.5)\r\n  - net40 (.NETFramework,Version=v4.0)\r\n  - net45 (.NETFramework,Version=v4.5)\r\n  - netstandard2.0 (.NETStandard,Version=v2.0)",
-      "libraryId": "Selenium.WebDriver",
+      "message": "Package Selenium.Support 3.13.1 is not compatible with netcoreapp1.0 (.NETCoreApp,Version=v1.0). Package Selenium.Support 3.13.1 supports:\r\n  - net35 (.NETFramework,Version=v3.5)\r\n  - net40 (.NETFramework,Version=v4.0)\r\n  - net45 (.NETFramework,Version=v4.5)\r\n  - netstandard2.0 (.NETStandard,Version=v2.0)",
+      "libraryId": "Selenium.Support",
       "targetGraphs": [
         ".NETCoreApp,Version=v1.0"
       ]
@@ -9047,8 +9053,8 @@
     {
       "code": "NU1202",
       "level": "Error",
-      "message": "Package Selenium.Support 3.13.1 is not compatible with netcoreapp1.0 (.NETCoreApp,Version=v1.0). Package Selenium.Support 3.13.1 supports:\r\n  - net35 (.NETFramework,Version=v3.5)\r\n  - net40 (.NETFramework,Version=v4.0)\r\n  - net45 (.NETFramework,Version=v4.5)\r\n  - netstandard2.0 (.NETStandard,Version=v2.0)",
-      "libraryId": "Selenium.Support",
+      "message": "Package Selenium.WebDriver 3.13.1 is not compatible with netcoreapp1.0 (.NETCoreApp,Version=v1.0). Package Selenium.WebDriver 3.13.1 supports:\r\n  - net35 (.NETFramework,Version=v3.5)\r\n  - net40 (.NETFramework,Version=v4.0)\r\n  - net45 (.NETFramework,Version=v4.5)\r\n  - netstandard2.0 (.NETStandard,Version=v2.0)",
+      "libraryId": "Selenium.WebDriver",
       "targetGraphs": [
         ".NETCoreApp,Version=v1.0"
       ]

@@ -12,7 +12,8 @@
     public class SeleniumGoogleSearchTest
     {
         private IWebDriver _driver;
-
+        string title;
+        
         [SetUp]
         public void SetUp()
         {
@@ -68,11 +69,13 @@
             Assert.Multiple(() =>
             {
                 //Assert Title of official web sute
-                Assert.AreEqual("Курс QA Automation - януари 2019 - Софтуерен университет", _driver.Title);
+                Assert.AreEqual("Курс QA Automation - септември 2019 - Софтуерен университет", _driver.Title);
                 //Assert there are some tags with tis title >= 2//Assert there are some tags with tis title >= 2
-                Assert.IsTrue(_driver.FindElements(By.LinkText("QA Automation")).Count>0);
+               _driver.FindElement(By.XPath("//h1[contains(text(), 'QA Automation - септември 2019')]"));
+                
             });
             
+
         }
 
         //[Test]
