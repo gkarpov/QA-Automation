@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace MyQAAdvProject
 {
+    using MyQAAdvProject.Pages;
     using NUnit.Framework;
     using OpenQA.Selenium;
     using OpenQA.Selenium.Chrome;
@@ -53,8 +54,11 @@ namespace MyQAAdvProject
         [Test]
         public void Test1() 
         {
+            RegistrationPage regPage = new RegistrationPage(_driver);
+
+            
             //Arange
-            IWebElement firstName = _driver.FindElement(By.Id("inputFirstName"));
+           
             IWebElement lastName = _driver.FindElement(By.Id("inputLastName"));
             IWebElement emailAdr = _driver.FindElement(By.Id("inputEmail"));
 

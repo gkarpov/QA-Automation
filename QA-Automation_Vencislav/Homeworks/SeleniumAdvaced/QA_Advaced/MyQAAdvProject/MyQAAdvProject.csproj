@@ -61,6 +61,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="FillFormTest.cs" />
+    <Compile Include="Pages\RegistrationPage.cs" />
+    <Compile Include="Pages\RegistrationPageMap.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
