@@ -10,6 +10,7 @@ namespace MyQAAdvProject.Pages
 {
     public partial class RegistrationPage
     {
+
         public IWebElement firstName => _driver.FindElement(By.Id("inputFirstName"));
 
         public IWebElement lastName => _driver.FindElement(By.Id("inputLastName"));
@@ -24,14 +25,20 @@ namespace MyQAAdvProject.Pages
         public IWebElement city => _driver.FindElement(By.Id("inputCity"));
         public IWebElement state => _driver.FindElement(By.Id("stateinput"));
         public IWebElement postcode => _driver.FindElement(By.Id("inputPostcode"));
-        public SelectElement country => new SelectElement(_driver.FindElement(By.Id("inputCountry")));
+        //public SelectElement country => new SelectElement(this.Country);
 
         public IWebElement taxid => _driver.FindElement(By.Id("inputTaxId"));
 
         public SelectElement customfield1 => new SelectElement(_driver.FindElement(By.Id("customfield1")));
-        public IWebElement mobile => _driver.FindElement(By.Id("customfield2"));
+        //public IWebElement mobile => _driver.FindElement(By.Id("customfield2"));
 
         public IWebElement password1 => _driver.FindElement(By.Id("inputNewPassword1"));
-        public IWebElement password2 => _driver.FindElement(By.Id("inputNewPassword2"))
+        public IWebElement password2 => _driver.FindElement(By.Id("inputNewPassword2"));
+
+        public IWebElement mailing => _driver.FindElement(By.XPath("//*[@id=\"frmCheckout\"]/div[3]/div/div/span[3]"));
+        public IWebElement submit => _driver.FindElement(By.XPath("//*[@id=\"frmCheckout\"]/p/input"));
+
+        public IWebElement error => _driver.FindElement(By.XPath("//*[@id=\"main-body\"]/div/div/div[3]/div[1]"));
+        
     }
 }
