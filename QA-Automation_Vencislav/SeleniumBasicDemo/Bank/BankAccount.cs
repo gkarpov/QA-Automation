@@ -36,7 +36,7 @@
             {
                 throw new ArgumentException("Deposit can not be negative!");
             }
-            this.Amount += amount;
+            Amount += amount;
         }
 
         public void Withdraw(decimal amount)
